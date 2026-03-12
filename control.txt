@@ -1,5 +1,3 @@
 {
-  "tokens": {
-    "81695796:AAExxxxxxxxxxx": "on"
-  }
+  "tokens": {}
 }
