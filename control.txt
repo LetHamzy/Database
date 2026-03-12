@@ -1,5 +1,5 @@
 {
   "tokens": {
-    "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "off"
+    "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on"
   }
 }
