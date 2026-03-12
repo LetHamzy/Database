@@ -1,6 +1,5 @@
 {
   "tokens": {
-    "8169577396:AAExxxxxxxxxxx": "off",
     "8169577396:AAExxxxxxxxxx": "on",
     "8169577396:AAExxxxxxxxx": "on",
     "81695796:AAExxxxxxxxxxx": "on"
