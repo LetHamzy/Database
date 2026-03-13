@@ -1,5 +1,6 @@
 {
   "tokens": {
-    "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on"
+    "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on",
+    "8632847522:AAEVJiPLPR7gx2eJ_jMLjZueH76KkPCCvW0": "on"
   }
 }
