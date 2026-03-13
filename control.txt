@@ -2,6 +2,7 @@
   "tokens": {
     "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on",
     "8632847522:AAEVJiPLPR7gx2eJ_jMLjZueH76KkPCCvW0": "on",
-    "8612253449:AAE6wCefWEwVz6iOh9PdXHWFGS5rhi1z2E8": "on"
+    "8612253449:AAE6wCefWEwVz6iOh9PdXHWFGS5rhi1z2E8": "on",
+    "8588291076:AAHPqWu_WurtUt0wIkFovBDVxhacqHVHkJU": "on"
   }
 }
