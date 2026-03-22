@@ -4,7 +4,6 @@
     "8588291076:AAHPqWu_WurtUt0wIkFovBDVxhacqHVHkJU": "on",
     "8527891882:AAFih7ibnAoCN0rwC5JRBw6SZDDHyJjCCSI": "on",
     "8280857018:AAGzSlV0D7glmuJhA-VvEfmcMxcHuscDBTY": "on",
-    "8687968739:AAGHH3OotuWgcPv0rgHdSpptk8r1sZWm7co": "on",
     "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on"
   }
 }
