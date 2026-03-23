@@ -6,6 +6,7 @@
     "8280857018:AAGzSlV0D7glmuJhA-VvEfmcMxcHuscDBTY": "on",
     "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on",
     "8687968739:AAGHH3OotuWgcPv0rgHdSpptk8r1sZWm7co": "on",
-    "8466534748:AAGQz5B-AITL_BZHAG-dacMrz-Vi5sir3bU": "on"
+    "8466534748:AAGQz5B-AITL_BZHAG-dacMrz-Vi5sir3bU": "on",
+    "7924737200:AAGW4nQzNgcUBMqaEZcfRUdR3PhGn_hvun4": "on"
   }
 }
