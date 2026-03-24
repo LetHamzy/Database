@@ -3,7 +3,6 @@
     "8527891882:AAFih7ibnAoCN0rwC5JRBw6SZDDHyJjCCSI": "off",
     "8464285801:AAGvq4AFvr4L5cMudfo90Zk6cJ-QBKyJPxk": "on",
     "8466534748:AAGQz5B-AITL_BZHAG-dacMrz-Vi5sir3bU": "on",
-    "7924737200:AAGW4nQzNgcUBMqaEZcfRUdR3PhGn_hvun4": "on",
     "8753360204:AAHjp9DwvV8n5gThGS4srK9_ft5jei3m2Mc": "on"
   }
 }
