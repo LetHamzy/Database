@@ -8,6 +8,7 @@
     "8940652233:AAEAZq52FeDWMOzGg4Qnj3xyKVQwVKQC_v4": "on",
     "8733080526:AAHn4gBqyYzk8lmtpkvhlv00AUYwk3qE34E": "on",
     "8923871270:AAG3rlkG7Dy5tCvIO9j4cqzwWmcfNmtyIVE": "on",
-    "8923871270:AAFYeF93YglzvH-fxojulx5WbxjklzQDY98": "on"
+    "8923871270:AAFYeF93YglzvH-fxojulx5WbxjklzQDY98": "on",
+    "8923871270:AAF-U2BKbllGvWb9fJYBrHPB1nu9rBx1MZE": "on"
   }
 }
