@@ -1,14 +1,3 @@
 {
-  "tokens": {
-    "8607419742:AAGDLXS3YXOaw60T5iWA_LKkieh_K3jjtLA": "on",
-    "8753360204:AAHjp9DwvV8n5gThGS4srK9_ft5jei3m2Mc": "on",
-    "8076078810:AAGT0pFyLcMExSkIiI02LdDO6IT0cHPNeXs": "on",
-    "8759695337:AAE7Ld-EDUvyWVfhS9D21yxm0o7WRoI_l28": "on",
-    "8797253549:AAEMphQIasQfWjU4Wq-UEcdWEPzKon9yPAk": "on",
-    "8940652233:AAEAZq52FeDWMOzGg4Qnj3xyKVQwVKQC_v4": "on",
-    "8733080526:AAHn4gBqyYzk8lmtpkvhlv00AUYwk3qE34E": "on",
-    "8923871270:AAG3rlkG7Dy5tCvIO9j4cqzwWmcfNmtyIVE": "on",
-    "8923871270:AAFYeF93YglzvH-fxojulx5WbxjklzQDY98": "on",
-    "8923871270:AAF-U2BKbllGvWb9fJYBrHPB1nu9rBx1MZE": "on"
-  }
+  "tokens": {}
 }
