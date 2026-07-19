@@ -1,6 +1,7 @@
 {
   "tokens": {
     "7815027267:AAFznDg0ma918KWw62F1n9IGG52v4zlRQew": "on",
-    "7815027267:AAFplzCk1RPcAVKGQ5MwODmm9nG59afNyPI": "on"
+    "7815027267:AAFplzCk1RPcAVKGQ5MwODmm9nG59afNyPI": "on",
+    "8958005084:AAFlocR6nN4mFchRw3tp4N_d8BnUZp7XxOo": "on"
   }
 }
